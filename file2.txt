@@ -1,3 +1,4 @@
 This is file2
 adding another line on file 2
 new change in file2 from feature1 branch
+new line added from gitlocal
